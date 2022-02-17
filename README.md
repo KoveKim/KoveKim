@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Python. I'm building up my fundamentals so that I can create my first project which will be a simple game like tic-tac-toe or snake.
 - 💞️ I’m looking to collaborate on all sorts of projects. I'm trying to learn as much as I can and build up my portfolio.
 - 📫 You can contact me through social media. If you want to know more about me, head over to my Instagram page, @kove.kim - I would rather not disclose my personal information other than my name.
-- My highlighted project: https://github.com/KoveKim/Python-Beginner-Projects/blob/8becd8fa52b95e8a425311c5bb67d33525c29d76/ConvertDecimalToBinary.py
+
+----------------------------------------
+
+My highlighted project: https://github.com/KoveKim/Python-Beginner-Projects/blob/8becd8fa52b95e8a425311c5bb67d33525c29d76/ConvertDecimalToBinary.py
 
 Here is one of my first projects that I made in Python that I'm very proud of. It is a simple decimal-to-binary number converter. The program will prompt the user to enter a decimal number, and then will convert it into binary and output that value. The reason I am proud of this project in particular is because it was one of the first projects that I made where I felt I had actually overcame a challenging issue.
 
